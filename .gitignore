@@ -51,3 +51,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.ccls-cache/
+.github/ISSUE_TEMPLATE/
+CODE_OF_CONDUCT.md
